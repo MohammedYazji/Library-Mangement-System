@@ -1,0 +1,56 @@
+[
+  {
+    "title": "The 7 Habits",
+    "author": "Stephen Covey",
+    "item_id": "dd411722-9d96-4473-b47a-658cf7802227",
+    "type": "Book",
+    "reserved_by": null,
+    "available": true
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "item_id": "58d4746a-6c1f-46f8-ad18-9e13fbf6cfeb",
+    "type": "Book",
+    "reserved_by": null,
+    "available": true
+  },
+  {
+    "title": "Counter Strike",
+    "author": "Valve",
+    "item_id": "f4180799-c547-4ab9-873e-1d0037208d1f",
+    "type": "DVD",
+    "reserved_by": null,
+    "available": true
+  },
+  {
+    "title": "Tom and Jerry",
+    "author": "William Hanna",
+    "item_id": "9638aad7-d08b-4104-9f22-95566b8d7287",
+    "type": "DVD",
+    "reserved_by": null,
+    "available": true
+  },
+  {
+    "title": "Algorithms",
+    "author": "Robert Sedgewick",
+    "item_id": "cd1b82ed-398b-4871-9c53-aa15b2729d5f",
+    "type": "Book",
+    "reserved_by": null,
+    "available": true
+  },
+  {
+    "title": "AlQuds",
+    "author": "alquds.com",
+    "item_id": "4ae85c73-a1d6-43f2-8e16-7f27bdec7479",
+    "type": "Magazine",
+    "available": true
+  },
+  {
+    "title": "Sama News",
+    "author": "samanews.com",
+    "item_id": "543bde0f-b038-4fcf-8dd2-699167ac5820",
+    "type": "Magazine",
+    "available": true
+  }
+]
